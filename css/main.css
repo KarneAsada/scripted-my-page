@@ -1,0 +1,16 @@
+html {
+  margin: 40px;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+.navigation {
+  padding: 20px 0;
+}
+
+.placeholder_img {
+  background-color: yellow;
+  margin-bottom: 10px;
+}
